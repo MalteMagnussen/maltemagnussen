@@ -1,5 +1,4 @@
-# Malte Hviid-Magnussen 
+## Malte Hviid-Magnussen 
 
-* Computer Science Degree 
-* Passionate about Flutter since summer 2020
-* Enjoys sailing and climbing 
+* Systems Engineer at one.com 
+* Working on Internal Developer Platform
